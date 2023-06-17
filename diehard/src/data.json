@@ -1,0 +1,26 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "title": "Google Pixel 4",
+        "description": "Google Pixel 4 is a great mobile telephone created by a google.",
+        "image": "https://media.wired.com/photos/5dae0207c96358000859e5a9/1:1/w_903,h_903,c_limit/Gear-Google-Pixel-4-Front-and-Back-SOURCE-Google.jpg",
+        "price": 830.30
+      },
+      {
+        "id": 2,
+        "title": "Smart Watch",
+        "description": "Some random smart watch taken from google images.",
+        "image": "https://i5.walmartimages.com/asr/d1ec9478-90c6-4583-ab1a-ae66d8bcf8a0.85aefe7b100e614a8880ce99885f5993.jpeg",
+        "price": 130.00
+      },
+      {
+        "id": 3,
+        "title": "Atlantis mini mouse",
+        "description": "This is the mouse that I am buying for sure in a near future.",
+        "image": "https://cdn.shopify.com/s/files/1/0581/9675/4466/products/1_7ac2e628-bad9-4ef1-bb27-838ce1a49157-682786.jpg?v=1683685253",
+        "price": 830.28
+      }
+    ]
+  }
+  
